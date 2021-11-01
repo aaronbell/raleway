@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="alliant" format="2">
+  <advance width="500"/>
+  <outline>
+    <contour>
+      <point x="216" y="189" type="line"/>
+      <point x="460" y="189" type="line"/>
+      <point x="460" y="493" type="line"/>
+      <point x="216" y="493" type="line"/>
+    </contour>
+    <contour>
+      <point x="285" y="551" type="line"/>
+      <point x="402" y="551" type="line"/>
+      <point x="402" y="643" type="line"/>
+      <point x="285" y="643" type="line"/>
+    </contour>
+    <contour>
+      <point x="503" y="310" type="line"/>
+      <point x="598" y="310" type="line"/>
+      <point x="598" y="394" type="line"/>
+      <point x="503" y="394" type="line"/>
+    </contour>
+    <contour>
+      <point x="303" y="61" type="line"/>
+      <point x="395" y="61" type="line"/>
+      <point x="395" y="152" type="line"/>
+      <point x="303" y="152" type="line"/>
+    </contour>
+    <contour>
+      <point x="111" y="309" type="line"/>
+      <point x="200" y="309" type="line"/>
+      <point x="200" y="385" type="line"/>
+      <point x="111" y="385" type="line"/>
+    </contour>
+  </outline>
+</glyph>
