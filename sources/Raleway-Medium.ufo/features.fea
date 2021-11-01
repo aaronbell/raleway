@@ -40,7 +40,6 @@ feature ss08;
 feature ss09;
 feature ss10;
 feature ss11;
-feature ss20;
 feature lnum;
 
 } aalt;
@@ -382,11 +381,6 @@ feature ss11 {
 sub G by G.ss11;
 
 } ss11;
-
-feature ss20 {
-sub bullet by alliant;
-
-} ss20;
 
 feature lnum {
 sub [ one ] by [ one.lf ];
