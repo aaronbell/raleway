@@ -1055,6 +1055,7 @@
 					<string>napostrophe</string>
 					<string>apostrophe</string>
 					<string>servicemark</string>
+					<string>alliant</string>
 				</array>
 				<key>type</key>
 				<string>glyphList</string>
@@ -2259,6 +2260,7 @@
 			<string>uni03BC</string>
 			<string>uni01C4</string>
 			<string>Ertick-cy.BRACKET.700</string>
+			<string>alliant</string>
 		</array>
 		<key>public.postscriptNames</key>
 		<dict>
