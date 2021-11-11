@@ -1,24 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="alliant" format="2">
-  <advance width="500"/>
+  <advance width="774"/>
   <outline>
     <contour>
-      <point x="194" y="163" type="line"/>
-      <point x="457" y="163" type="line"/>
-      <point x="457" y="424" type="line"/>
-      <point x="194" y="424" type="line"/>
-    </contour>
-    <contour>
-      <point x="299" y="471" type="line"/>
-      <point x="338" y="471" type="line"/>
-      <point x="338" y="526" type="line"/>
-      <point x="299" y="526" type="line"/>
-    </contour>
-    <contour>
-      <point x="287" y="-76" type="line"/>
-      <point x="325" y="-76" type="line"/>
-      <point x="325" y="127" type="line"/>
-      <point x="287" y="127" type="line"/>
+      <point x="596" y="596" type="line"/>
+      <point x="30" y="596" type="line"/>
+      <point x="704" y="132" type="line"/>
     </contour>
   </outline>
 </glyph>
