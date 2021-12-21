@@ -14,7 +14,7 @@
     </axis>
   </axes>
   <sources>
-    <source filename="Raleway-Thin.ufo" name="Raleway Lining Thin" familyname="Raleway Lining" stylename="Thin">
+    <source filename="Raleway-Thin.ufo" name="Raleway Thin" familyname="Raleway" stylename="Thin">
       <lib copy="1"/>
       <groups copy="1"/>
       <features copy="1"/>
@@ -23,19 +23,19 @@
         <dimension name="Weight" xvalue="0"/>
       </location>
     </source>
-    <source filename="Raleway-Medium.ufo" name="Raleway Lining Medium" familyname="Raleway Lining" stylename="Medium">
+    <source filename="Raleway-Medium.ufo" name="Raleway Medium" familyname="Raleway" stylename="Medium">
       <location>
         <dimension name="Weight" xvalue="400"/>
       </location>
     </source>
-    <source filename="Raleway-Black.ufo" name="Raleway Lining Black" familyname="Raleway Lining" stylename="Black">
+    <source filename="Raleway-Black.ufo" name="Raleway Black" familyname="Raleway" stylename="Black">
       <location>
         <dimension name="Weight" xvalue="1000"/>
       </location>
     </source>
   </sources>
   <instances>
-    <instance name="Raleway Lining Thin" familyname="Raleway Lining" stylename="Thin" filename="instance_ufos/RalewayLining-Thin.ufo">
+    <instance name="Raleway Thin" familyname="Raleway" stylename="Thin" filename="instance_ufos/Raleway-Thin.ufo">
       <location>
         <dimension name="Weight" xvalue="0"/>
       </location>
@@ -59,7 +59,7 @@
         </dict>
       </lib>
     </instance>
-    <instance name="Raleway Lining ExtraLight" familyname="Raleway Lining" stylename="ExtraLight Lining" filename="instance_ufos/RalewayLining-ExtraLight.ufo">
+    <instance name="Raleway ExtraLight" familyname="Raleway" stylename="ExtraLight" filename="instance_ufos/Raleway-ExtraLight.ufo">
       <location>
         <dimension name="Weight" xvalue="82.400000"/>
       </location>
@@ -85,7 +85,7 @@
         </dict>
       </lib>
     </instance>
-    <instance name="Raleway Lining Light" familyname="Raleway Lining" stylename="Light" filename="instance_ufos/RalewayLining-Light.ufo">
+    <instance name="Raleway Light" familyname="Raleway" stylename="Light" filename="instance_ufos/Raleway-Light.ufo">
       <location>
         <dimension name="Weight" xvalue="176.500000"/>
       </location>
@@ -111,7 +111,7 @@
         </dict>
       </lib>
     </instance>
-    <instance name="Raleway Lining Regular" familyname="Raleway Lining" stylename="Regular" filename="instance_ufos/RalewayLining-Regular.ufo">
+    <instance name="Raleway Regular" familyname="Raleway" stylename="Regular" filename="instance_ufos/Raleway-Regular.ufo">
       <location>
         <dimension name="Weight" xvalue="282.300000"/>
       </location>
@@ -137,7 +137,7 @@
         </dict>
       </lib>
     </instance>
-    <instance name="Raleway Lining Medium" familyname="Raleway Lining" stylename="Medium" filename="instance_ufos/RalewayLining-Medium.ufo">
+    <instance name="Raleway Medium" familyname="Raleway" stylename="Medium" filename="instance_ufos/Raleway-Medium.ufo">
       <location>
         <dimension name="Weight" xvalue="400"/>
       </location>
@@ -161,7 +161,7 @@
         </dict>
       </lib>
     </instance>
-    <instance name="Raleway Lining SemiBold" familyname="Raleway Lining" stylename="SemiBold" filename="instance_ufos/RalewayLining-SemiBold.ufo">
+    <instance name="Raleway SemiBold" familyname="Raleway" stylename="SemiBold" filename="instance_ufos/Raleway-SemiBold.ufo">
       <location>
         <dimension name="Weight" xvalue="529.400000"/>
       </location>
@@ -187,7 +187,7 @@
         </dict>
       </lib>
     </instance>
-    <instance name="Raleway Lining Bold" familyname="Raleway Lining" stylename="Bold" filename="instance_ufos/RalewayLining-Bold.ufo">
+    <instance name="Raleway Bold" familyname="Raleway" stylename="Bold" filename="instance_ufos/Raleway-Bold.ufo">
       <location>
         <dimension name="Weight" xvalue="670.600000"/>
       </location>
@@ -213,7 +213,7 @@
         </dict>
       </lib>
     </instance>
-    <instance name="Raleway Lining ExtraBold" familyname="Raleway Lining" stylename="ExtraBold" filename="instance_ufos/RalewayLining-ExtraBold.ufo">
+    <instance name="Raleway ExtraBold" familyname="Raleway" stylename="ExtraBold" filename="instance_ufos/Raleway-ExtraBold.ufo">
       <location>
         <dimension name="Weight" xvalue="823.500000"/>
       </location>
@@ -239,7 +239,7 @@
         </dict>
       </lib>
     </instance>
-    <instance name="Raleway Lining Black" familyname="Raleway Lining" stylename="Black" filename="instance_ufos/RalewayLining-Black.ufo">
+    <instance name="Raleway Black" familyname="Raleway" stylename="Black" filename="instance_ufos/Raleway-Black.ufo">
       <location>
         <dimension name="Weight" xvalue="1000"/>
       </location>
